@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798890066437",
+    "firebase_url": "https://wuek-covid19-updates.firebaseio.com",
+    "project_id": "wuek-covid19-updates",
+    "storage_bucket": "wuek-covid19-updates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798890066437:android:4938be953842b4a055d26c",
+        "android_client_info": {
+          "package_name": "com.mychatapp.my_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798890066437-o5pmpg421ac12vija6m7jkqndgudedqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mychatapp.my_chat_app",
+            "certificate_hash": "56b5a5c894ff3c6b4d56f8b946b0a611f75de7a2"
+          }
+        },
+        {
+          "client_id": "798890066437-r516252ltl9ravna4ri5ammmnldoo0or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWHXxY92e9FSx4ada-3DhxvHg9UCuLN-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798890066437-r516252ltl9ravna4ri5ammmnldoo0or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
